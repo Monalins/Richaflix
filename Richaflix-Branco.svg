@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 738.16 161.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: Glancyr-Regular, Glancyr;
+        font-size: 148.46px;
+        font-variation-settings: 'wght' 550, 'ital' 0;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="59.22" y1="9.06" x2="59.22" y2="141.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3ff3f"/>
+      <stop offset="1" stop-color="#1b7f00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.79" y1="75.15" x2="80.91" y2="75.15" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-3" transform="translate(127.57 126.19)"><tspan x="0" y="0">Richaflix</tspan></text>
+    <g>
+      <path class="cls-4" d="M110.96,62.21L22.42,11.09C12.46,5.34,0,12.53,0,24.03v102.24c0,11.51,12.46,18.7,22.42,12.94l88.54-51.12c9.96-5.75,9.96-20.14,0-25.89ZM85.93,88.1l-51,29.44c-9.96,5.75-22.42-1.44-22.42-12.94v-58.89c0-11.51,12.46-18.7,22.42-12.94l51,29.44c9.96,5.75,9.96,20.14,0,25.89Z"/>
+      <path class="cls-2" d="M73.44,62.21l-30.22-17.45c-9.96-5.75-22.42,1.44-22.42,12.94v34.9c0,11.51,12.46,18.7,22.42,12.94l30.22-17.45c9.96-5.75,9.96-20.14,0-25.89ZM53.29,88.1h0c-9.96,5.75-22.42-1.44-22.42-12.94h0c0-11.51,12.46-18.7,22.42-12.94h0c9.96,5.75,9.96,20.14,0,25.89Z"/>
+      <path class="cls-1" d="M73.44,62.21l-30.22-17.45c-9.96-5.75-22.42,1.44-22.42,12.94v34.9c0,11.51,12.46,18.7,22.42,12.94l30.22-17.45c9.96-5.75,9.96-20.14,0-25.89ZM53.29,88.1h0c-9.96,5.75-22.42-1.44-22.42-12.94h0c0-11.51,12.46-18.7,22.42-12.94h0c9.96,5.75,9.96,20.14,0,25.89Z"/>
+    </g>
+  </g>
+</svg>
